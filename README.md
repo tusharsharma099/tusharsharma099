@@ -1,5 +1,16 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on<br><br>Deploying full-stack applications on AWS EC2<br><br>CI/CD pipelines using Jenkins<br><br>Containerizing apps with Docker and orchestrating with Kubernetes<br><br>Monitoring systems using Prometheus & Grafana<br><br>👯 I’m looking to collaborate on<br><br>DevOps projects<br><br>Cloud-native applications<br><br>Open-source backend or infrastructure projects<br><br>🤝 I’m looking for help with<br><br>Advanced Kubernetes architecture<br><br>Production-grade system design<br><br>Scaling and optimizing cloud deployments<br><br>🌱 I’m currently learning<br><br>Advanced DevOps practices<br><br>Infrastructure as Code<br><br>Microservices architecture<br><br>Cloud security fundamentals<br><br>💬 Ask me about<br><br>AWS deployments<br><br>Django & Node.js backend development<br><br>Docker, Kubernetes & Helm<br><br>Monitoring & logging setups<br><br>⚡ Fun fact<br>I enjoy turning complex infrastructure setups into automated, production-ready systems 🚀
+🔭 I’m currently working on deploying full-stack applications on AWS EC2, building CI/CD pipelines using Jenkins, and containerizing applications with Docker while orchestrating them with Kubernetes. I also focus on monitoring systems using Prometheus and Grafana to ensure reliable and efficient infrastructure.
+
+👯 I’m looking to collaborate on DevOps projects, cloud-native applications, and open-source backend or infrastructure projects where I can contribute and learn from real-world environments.
+
+🤝 I’m looking for help with advanced Kubernetes architecture, production-grade system design, and scaling and optimizing cloud deployments for high availability and performance.
+
+🌱 I’m currently learning advanced DevOps practices, Infrastructure as Code (IaC), microservices architecture, and cloud security fundamentals to strengthen my skills in building modern cloud systems.
+
+💬 Ask me about AWS deployments, Django and Node.js backend development, Docker, Kubernetes and Helm, as well as monitoring and logging setups.
+
+⚡ Fun fact: I enjoy turning complex infrastructure setups into automated, production-ready systems 🚀
+
 
 
 ## 🌐 Socials:
