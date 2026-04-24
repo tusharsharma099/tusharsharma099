@@ -1,15 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on deploying full-stack applications on AWS EC2, building CI/CD pipelines using Jenkins, and containerizing applications with Docker while orchestrating them with Kubernetes. I also focus on monitoring systems using Prometheus and Grafana to ensure reliable and efficient infrastructure.
+## Hi, I'm Tushar 👋
 
-👯 I’m looking to collaborate on DevOps projects, cloud-native applications, and open-source backend or infrastructure projects where I can contribute and learn from real-world environments.
+DevOps & Python Developer | B.Tech IT @ BPIT Delhi
+AWS Cloud Practitioner | Winnovation Cloud Computing
 
-🤝 I’m looking for help with advanced Kubernetes architecture, production-grade system design, and scaling and optimizing cloud deployments for high availability and performance.
+I enjoy building systems from scratch and I'm particularly
+drawn to monitoring, observability, and infrastructure automation.
 
-🌱 I’m currently learning advanced DevOps practices, Infrastructure as Code (IaC), microservices architecture, and cloud security fundamentals to strengthen my skills in building modern cloud systems.
+---
 
-💬 Ask me about AWS deployments, Django and Node.js backend development, Docker, Kubernetes and Helm, as well as monitoring and logging setups.
+### 🛠 Tech Stack
 
-⚡ Fun fact: I enjoy turning complex infrastructure setups into automated, production-ready systems 🚀
+**DevOps & Cloud**
+`Kubernetes` `Docker` `Terraform` `Ansible` `GitHub Actions`
+`ArgoCD` `Helm` `Prometheus` `Grafana` `AWS`
+
+**Backend**
+`Python` `Django` `FastAPI` `Django REST Framework` `Celery`
+
+**Other**
+`Bash` `Git` `Linux` `PostgreSQL`
+
+---
+
+### 🚀 Featured Projects
+
+**[ResumeRadar AI](https://github.com/tushar/resumeradar)**
+Full-stack AI resume analyzer — Django + FastAPI + Celery + React,
+Dockerized with a microservices architecture.
+
+**[Kubernetes Voting App](https://github.com/tushar/k8s-voting-app)**
+Containerized app on a K8s cluster with Prometheus & Grafana
+monitoring end-to-end.
+
+**[Finance Tracking API](https://github.com/tushar/finance-api)**
+Production-grade DRF API with JWT auth and role-based
+access control (Viewer / Analyst / Admin).
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+
+📍 Delhi NCR | Open to DevOps & Python roles
 
 
 
