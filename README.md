@@ -41,7 +41,7 @@ access control (Viewer / Analyst / Admin).
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuxhar-sharma)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:tusharsharma0991@gmail.com)
 
 📍 Delhi NCR | Open to DevOps & Python roles
 
