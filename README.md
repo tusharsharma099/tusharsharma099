@@ -59,4 +59,15 @@ access control (Viewer / Analyst / Admin).
 ---
 [![](https://visitcount.itsvg.in/api?id=tusharsharma099&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created wi<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharsharma099&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsharma099&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tusharsharma099&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsharma099&theme=tokyo-night&hide_border=true"/>
+</p>th GPRM ( https://gprm.itsvg.in ) 
