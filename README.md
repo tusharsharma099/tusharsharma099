@@ -70,7 +70,7 @@ access control (Viewer / Analyst / Admin).
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%238B5CF6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%238B5CF6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuxhar-sharma/)
 
 *"The best code is the code that ships."*
 
